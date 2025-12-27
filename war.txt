@@ -125,7 +125,7 @@ CAY
 CAY
 KKKKK
 ĐỊT CỤ NHÀ MÀY QUỲ XUỐNG 
-BỐ LONG LÀ NHẤT OK
+BỐ MÀY LÀ NHẤT OK
 XIN BÚ CU ANH ĐI
 CAY ĐỊT CON MẸ MÀY
 ANH ĐỊT NÁT LỒN MẸ MÀY NÀY EM
@@ -1040,6 +1040,11 @@ cậu bé cận huyết
 củ tam thất à em
 đúng máy ngu
 súc vật muốn đứng camnhj anh m à
+súc vật s1 à cu
+cha m cụt hả
+m ngu à
+thg não tôm cụt tay
+
 ò ó o đm thg nuyg
 a chấp m một tay vẫn thg
 m ra đg cẩn thận bị xe đâm đấy e
